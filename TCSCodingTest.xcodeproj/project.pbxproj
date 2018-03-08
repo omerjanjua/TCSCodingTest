@@ -65,7 +65,6 @@
 
 /* Begin PBXFileReference section */
 		9821D52A20502813002BA12B /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = ../Carthage/Build/iOS/SDWebImage.framework; sourceTree = "<group>"; };
-		9821D52F2050293A002BA12B /* Cartfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 		9821D539205035E3002BA12B /* NowPlayingCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowPlayingCollectionViewCell.swift; sourceTree = "<group>"; };
 		9821D53B20503601002BA12B /* NowPlayingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowPlayingViewController.swift; sourceTree = "<group>"; };
 		9821D53D20503616002BA12B /* NowPlayingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowPlayingViewModel.swift; sourceTree = "<group>"; };
@@ -135,7 +134,6 @@
 		9821D52E20502906002BA12B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				9821D52F2050293A002BA12B /* Cartfile */,
 				98B36DB12050166500847A28 /* Main.storyboard */,
 				98B36DB42050166500847A28 /* Assets.xcassets */,
 				98B36DB62050166500847A28 /* LaunchScreen.storyboard */,
